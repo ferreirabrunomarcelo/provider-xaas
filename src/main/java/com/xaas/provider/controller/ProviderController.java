@@ -8,7 +8,7 @@ public class ProviderController {
 
     @GetMapping
     public String provider() {
-        return "Provider";
+        return "Provider Azure";
     }
 
 }
